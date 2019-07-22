@@ -1,0 +1,9 @@
+G:\c#\Reversi\Reversi\obj\Debug\Reversi.csprojResolveAssemblyReference.cache
+G:\c#\Reversi\Reversi\obj\Debug\Reversi.Form1.resources
+G:\c#\Reversi\Reversi\obj\Debug\Reversi.Properties.Resources.resources
+G:\c#\Reversi\Reversi\obj\Debug\Reversi.csproj.GenerateResource.Cache
+G:\c#\Reversi\Reversi\bin\Debug\Reversi.exe
+G:\c#\Reversi\Reversi\bin\Debug\Reversi.pdb
+G:\c#\Reversi\Reversi\obj\Debug\Reversi.exe
+G:\c#\Reversi\Reversi\obj\Debug\Reversi.pdb
+G:\c#\Reversi\Reversi\obj\Debug\Reversi.ResourcesFields.resources

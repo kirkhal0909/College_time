@@ -1,0 +1,13 @@
+G:\Credits\Credits\Credits\bin\x86\Debug\Credits.exe
+G:\Credits\Credits\Credits\bin\x86\Debug\Credits.pdb
+G:\Credits\Credits\Credits\obj\x86\Debug\Credits.csprojResolveAssemblyReference.cache
+G:\Credits\Credits\Credits\obj\x86\Debug\Credits.Form1.resources
+G:\Credits\Credits\Credits\obj\x86\Debug\Credits.Properties.Resources.resources
+G:\Credits\Credits\Credits\obj\x86\Debug\Credits.csproj.GenerateResource.Cache
+G:\Credits\Credits\Credits\obj\x86\Debug\Credits.exe
+G:\Credits\Credits\Credits\obj\x86\Debug\Credits.pdb
+G:\Credits\Credits\Credits\bin\x86\Debug\Кредиты.accdb
+G:\Credits\Credits\Credits\bin\x86\Debug\Credits.exe.config
+G:\Credits\Credits\Credits\obj\x86\Debug\Credits.FormEditCredits.resources
+G:\Credits\Credits\Credits\obj\x86\Debug\Credits.FormEditCurrency.resources
+G:\Credits\Credits\Credits\obj\x86\Debug\Credits.FormCalculator.resources

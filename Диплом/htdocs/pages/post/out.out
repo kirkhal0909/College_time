@@ -1,0 +1,1 @@
+19602000   INSERT INTO `groups_now`(`group_id`, `group_by_number`, `group_start_year`, `group_end_year`) VALUES ('1','12363273327',1960,2000)

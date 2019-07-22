@@ -1,0 +1,60 @@
+object Form1: TForm1
+  Left = 270
+  Top = 125
+  Width = 747
+  Height = 521
+  Caption = 'ASCII cipher'
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object mmo1: TMemo
+    Left = 24
+    Top = 16
+    Width = 689
+    Height = 409
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -27
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    ReadOnly = True
+    TabOrder = 0
+    OnKeyPress = mmo1KeyPress
+  end
+  object edt1: TEdit
+    Left = 24
+    Top = 432
+    Width = 537
+    Height = 31
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 1
+    OnKeyPress = edt1KeyPress
+  end
+  object btn1: TButton
+    Left = 592
+    Top = 432
+    Width = 97
+    Height = 33
+    Caption = 'Crypt'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 2
+    OnClick = btn1Click
+  end
+end

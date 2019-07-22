@@ -1,0 +1,15 @@
+G:\c#\College_items\College_items\bin\Debug\Oborudovanie.accdb
+G:\c#\College_items\College_items\bin\Debug\College_items.exe.config
+G:\c#\College_items\College_items\bin\Debug\College_items.exe
+G:\c#\College_items\College_items\bin\Debug\College_items.pdb
+G:\c#\College_items\College_items\obj\Debug\College_items.csprojResolveAssemblyReference.cache
+G:\c#\College_items\College_items\obj\Debug\College_items.Form1.resources
+G:\c#\College_items\College_items\obj\Debug\College_items.Properties.Resources.resources
+G:\c#\College_items\College_items\obj\Debug\College_items.csproj.GenerateResource.Cache
+G:\c#\College_items\College_items\obj\Debug\College_items.exe
+G:\c#\College_items\College_items\obj\Debug\College_items.pdb
+G:\c#\College_items\College_items\obj\Debug\College_items.FormPersonal.resources
+G:\c#\College_items\College_items\obj\Debug\College_items.Form_Items.resources
+G:\c#\College_items\College_items\obj\Debug\College_items.Form_Type_Items.resources
+G:\c#\College_items\College_items\obj\Debug\College_items.Form_Act_Lines.resources
+G:\c#\College_items\College_items\obj\Debug\College_items.Form_Equipmnet_Acts.resources

@@ -1,0 +1,14 @@
+G:\OPTdbf\OPTdbf\OPTdbf\bin\x86\Debug\OPTdbf.exe
+G:\OPTdbf\OPTdbf\OPTdbf\bin\x86\Debug\OPTdbf.pdb
+G:\OPTdbf\OPTdbf\OPTdbf\obj\x86\Debug\OPTdbf.Form1.resources
+G:\OPTdbf\OPTdbf\OPTdbf\obj\x86\Debug\OPTdbf.Properties.Resources.resources
+G:\OPTdbf\OPTdbf\OPTdbf\obj\x86\Debug\OPTdbf.csproj.GenerateResource.Cache
+G:\OPTdbf\OPTdbf\OPTdbf\obj\x86\Debug\OPTdbf.exe
+G:\OPTdbf\OPTdbf\OPTdbf\obj\x86\Debug\OPTdbf.pdb
+G:\OPTdbf\OPTdbf\OPTdbf\bin\x86\Debug\OPT.accdb
+G:\OPTdbf\OPTdbf\OPTdbf\bin\x86\Debug\OPTdbf.exe.config
+G:\OPTdbf\OPTdbf\OPTdbf\obj\x86\Debug\OPTdbf.FormProducts.resources
+G:\OPTdbf\OPTdbf\OPTdbf\obj\x86\Debug\OPTdbf.csprojResolveAssemblyReference.cache
+G:\OPTdbf\OPTdbf\OPTdbf\obj\x86\Debug\OPTdbf.FormOrders.resources
+G:\OPTdbf\OPTdbf\OPTdbf\obj\x86\Debug\OPTdbf.FormOrderMore.resources
+G:\OPTdbf\OPTdbf\OPTdbf\obj\x86\Debug\OPTdbf.FormOrderAdd.resources

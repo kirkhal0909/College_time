@@ -1,0 +1,26 @@
+112-123 F1-F12
+145 Scr
+19 Pause
+8 Bks
+45 Ins
+46 Del
+33,34 PgUp PgHm
+144 NumL
+13 Ent
+37..40 Lft Up Rgh Dwn
+16 Shf
+17 Ctrl
+18 Alt
+20 Cps
+Win 91
+192 ¸
+27 Esc
+219 [
+220 \
+221 ]
+186 ;
+222 '
+188 ,
+190 .
+191 /
+96..105 0..9

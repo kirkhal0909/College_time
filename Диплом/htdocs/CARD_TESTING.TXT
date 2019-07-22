@@ -1,0 +1,5 @@
+<div class="student-parent-block"><div class="student-block"><div class="student-card border rounded">
+					<div class="student-avatar student-girl">
+
+					</div>
+				</div></div><div class="student-block"></div><div class="student-block"></div><div class="student-block"></div><div class="student-block"></div><div class="student-block"></div><div class="student-block"></div><div class="student-block"></div><div class="student-block"></div><div class="student-block"></div><div class="student-block"></div><div class="student-block"></div><div class="student-block"></div></div>

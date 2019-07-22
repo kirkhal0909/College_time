@@ -1,0 +1,11 @@
+c:\users\кирилл\documents\visual studio 2015\Projects\Piano\Piano\bin\Debug\Piano.exe
+c:\users\кирилл\documents\visual studio 2015\Projects\Piano\Piano\bin\Debug\Piano.pdb
+c:\users\кирилл\documents\visual studio 2015\Projects\Piano\Piano\bin\Debug\Piano.xml
+c:\users\кирилл\documents\visual studio 2015\Projects\Piano\Piano\obj\Debug\Piano.vbprojResolveAssemblyReference.cache
+c:\users\кирилл\documents\visual studio 2015\Projects\Piano\Piano\obj\Debug\Piano.Form1.resources
+c:\users\кирилл\documents\visual studio 2015\Projects\Piano\Piano\obj\Debug\Piano.Resources.resources
+c:\users\кирилл\documents\visual studio 2015\Projects\Piano\Piano\obj\Debug\Piano.vbproj.GenerateResource.Cache
+c:\users\кирилл\documents\visual studio 2015\Projects\Piano\Piano\obj\Debug\Piano.exe
+c:\users\кирилл\documents\visual studio 2015\Projects\Piano\Piano\obj\Debug\Piano.xml
+c:\users\кирилл\documents\visual studio 2015\Projects\Piano\Piano\obj\Debug\Piano.pdb
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\Piano\Piano\obj\Debug\Piano.Form2.resources

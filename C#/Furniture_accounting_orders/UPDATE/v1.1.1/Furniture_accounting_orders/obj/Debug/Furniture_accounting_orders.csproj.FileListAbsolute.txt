@@ -1,0 +1,15 @@
+G:\c#\Furniture_accounting_orders\Furniture_accounting_orders\bin\Debug\orders.accdb
+G:\c#\Furniture_accounting_orders\Furniture_accounting_orders\bin\Debug\Furniture_accounting_orders.exe.config
+G:\c#\Furniture_accounting_orders\Furniture_accounting_orders\bin\Debug\Furniture_accounting_orders.exe
+G:\c#\Furniture_accounting_orders\Furniture_accounting_orders\bin\Debug\Furniture_accounting_orders.pdb
+G:\c#\Furniture_accounting_orders\Furniture_accounting_orders\obj\Debug\Furniture_accounting_orders.csprojResolveAssemblyReference.cache
+G:\c#\Furniture_accounting_orders\Furniture_accounting_orders\obj\Debug\Furniture_accounting_orders.Form1.resources
+G:\c#\Furniture_accounting_orders\Furniture_accounting_orders\obj\Debug\Furniture_accounting_orders.Properties.Resources.resources
+G:\c#\Furniture_accounting_orders\Furniture_accounting_orders\obj\Debug\Furniture_accounting_orders.csproj.GenerateResource.Cache
+G:\c#\Furniture_accounting_orders\Furniture_accounting_orders\obj\Debug\Furniture_accounting_orders.exe
+G:\c#\Furniture_accounting_orders\Furniture_accounting_orders\obj\Debug\Furniture_accounting_orders.pdb
+G:\c#\Furniture_accounting_orders\Furniture_accounting_orders\obj\Debug\Furniture_accounting_orders.Form_Orders.resources
+G:\c#\Furniture_accounting_orders\Furniture_accounting_orders\obj\Debug\Furniture_accounting_orders.Form_Clients.resources
+G:\c#\Furniture_accounting_orders\Furniture_accounting_orders\obj\Debug\Furniture_accounting_orders.Form_Menu.resources
+G:\c#\Furniture_accounting_orders\Furniture_accounting_orders\obj\Debug\Furniture_accounting_orders.Form_Add_order.resources
+G:\c#\Furniture_accounting_orders\Furniture_accounting_orders\obj\Debug\Furniture_accounting_orders.Form_Add_Order_Enter_Client.resources

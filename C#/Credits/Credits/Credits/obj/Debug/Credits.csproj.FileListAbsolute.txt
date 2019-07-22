@@ -1,0 +1,8 @@
+G:\Credits\Credits\Credits\bin\Debug\Credits.exe
+G:\Credits\Credits\Credits\bin\Debug\Credits.pdb
+G:\Credits\Credits\Credits\obj\Debug\Credits.csprojResolveAssemblyReference.cache
+G:\Credits\Credits\Credits\obj\Debug\Credits.Form1.resources
+G:\Credits\Credits\Credits\obj\Debug\Credits.Properties.Resources.resources
+G:\Credits\Credits\Credits\obj\Debug\Credits.csproj.GenerateResource.Cache
+G:\Credits\Credits\Credits\obj\Debug\Credits.exe
+G:\Credits\Credits\Credits\obj\Debug\Credits.pdb

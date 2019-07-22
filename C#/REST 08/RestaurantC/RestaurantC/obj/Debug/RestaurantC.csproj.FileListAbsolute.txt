@@ -1,0 +1,15 @@
+G:\REST 08\RestaurantC\RestaurantC\bin\Debug\RestaurantC.exe.config
+G:\REST 08\RestaurantC\RestaurantC\bin\Debug\Restaurant.accdb
+G:\REST 08\RestaurantC\RestaurantC\bin\Debug\RestaurantC.exe
+G:\REST 08\RestaurantC\RestaurantC\bin\Debug\RestaurantC.pdb
+G:\REST 08\RestaurantC\RestaurantC\obj\Debug\RestaurantC.csprojResolveAssemblyReference.cache
+G:\REST 08\RestaurantC\RestaurantC\obj\Debug\RestaurantC.Form1.resources
+G:\REST 08\RestaurantC\RestaurantC\obj\Debug\RestaurantC.Properties.Resources.resources
+G:\REST 08\RestaurantC\RestaurantC\obj\Debug\RestaurantC.csproj.GenerateResource.Cache
+G:\REST 08\RestaurantC\RestaurantC\obj\Debug\RestaurantC.exe
+G:\REST 08\RestaurantC\RestaurantC\obj\Debug\RestaurantC.pdb
+G:\REST 08\RestaurantC\RestaurantC\obj\Debug\RestaurantC.Products.resources
+G:\REST 08\RestaurantC\RestaurantC\obj\Debug\RestaurantC.Dishes.resources
+G:\REST 08\RestaurantC\RestaurantC\obj\Debug\RestaurantC.EditDishes.resources
+G:\REST 08\RestaurantC\RestaurantC\obj\Debug\RestaurantC.Categories.resources
+G:\REST 08\RestaurantC\RestaurantC\obj\Debug\RestaurantC.EditIngredients.resources

@@ -1,0 +1,449 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	box-sizing:border-box;
+}
+
+body{	
+	background: #eee;
+}
+
+
+.main-block {		
+	padding: 3em 2em 2em 2em;
+	background: #fafafa;
+	border: 1px solid #ebebeb;
+	border-radius: 1em;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);	
+}
+
+.main-block-with-objects{
+	margin: 1em auto;
+	padding: 2em 0em 2em 0em !important;
+	width: 90%;
+}
+
+.submain-block{
+	margin: auto;
+	padding: 1em 0em 1em 0em;
+	background: #fafafa;
+	border: 1px solid #ebebeb;
+	border-radius: 0;/* !important;*/
+	box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.24); /*!important;*/
+	width: 96%;
+}
+
+.student-parent-block{
+	width: 100%;
+	overflow:scroll;
+	white-space: nowrap;	
+}
+
+.student-block{
+	margin: 1em 1em 1em 1em;
+	padding: 1em 0em 1em 0em;
+	background: #fafafa;
+	border: 1px solid #ebebeb;
+	border-radius: 0;/* !important;*/
+	box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.24); /*!important;*/
+	width: 238px;
+	height: 360px;
+	display:inline-block;
+	vertical-align: top;
+}
+
+.student-avatar{
+	width: 130px;
+	height: 130px;	
+	margin:10px auto;
+	padding: 30px;
+	background-size:contain;
+}
+
+.student-card-edit{
+	width: 30px;
+	height: 30px;
+	margin:0 auto;	
+	background-size: contain;
+	opacity: 0.50;
+}
+
+.student-card-edit:hover{
+	opacity: 1;
+	cursor: pointer;
+}
+
+.student-card{	
+	width: 190px;
+	height: 130px;
+	margin: 0 auto;
+	background: #e8e9ea;	
+	text-align: center;
+}	
+
+.student-block p{
+	font-size: 1.6em;
+	height: 4.6em;
+	width: 190px;
+	margin: 0 auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+    overflow: auto;	
+}
+
+.student-add{	  	
+  	background-image: url('/img/add.png');	
+  	cursor: pointer;
+}
+
+.student-girl{	  	
+  	background-image: url('/img/girl.png');	
+}
+
+.student-boy{	  	
+  	background-image: url('/img/boy.png');	
+}
+
+.student-edit{	  	
+  	background-image: url('/img/pencil.png');	
+}
+
+.block-for-create{
+	margin: auto;
+	padding: 1em 0em 1em 0em;
+	margin-bottom: 2em;
+	background: #fafafa;
+	border: 1px solid #ebebeb;
+	border-radius: 0;/* !important;*/
+	box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.24); /*!important;*/
+	width: 96%;
+}
+
+.block-for-create h2{
+	padding: 0em 1em 0em 1em;	
+}
+
+.block-for-create h2:hover{	
+	cursor: pointer;
+	color:#2B4281;
+}
+
+.submain-block-with-objects{
+	
+	margin:1em 0em -1em 0em;
+	padding: 1em 1em 1em 1em;
+	background: #f1f1f1;
+	border: 1px solid #ebebeb;
+	border-radius: 0;/* !important;*/
+	box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.24); /*!important;*/
+	width: 100%;
+	display: none;
+}
+
+.btn_delete {
+	color:#FF5F5F;	
+}
+
+.btn_delete:hover {
+	color:#FF4F2F !important;
+	font-size: 1.7em;
+	padding-left: 0.88em !important;
+}
+
+.submain-block h2{
+	padding: 0em 0em 0em 1em;
+	display: inline-block;
+}
+
+.submain-block h2:hover{	
+	cursor: pointer;
+	color:#2B4281;
+}
+
+
+
+.group-name{
+	padding-bottom: 0.7em !important;	
+	padding-top: 0.7em !important;	
+}
+
+.form {
+  margin: 4em auto;
+  width: 380px;     
+  /*width:90%;*/
+}
+
+input {
+	position: relative; 
+	margin-bottom: 25px;
+	font-size: 18px;
+	padding: 10px 10px 10px 5px;	
+	display: block;
+	background: #fafafa;
+	color: #636363;
+	width: 100%;
+	border: none;	
+	border-bottom: 1px solid #757575;
+}
+
+select{
+	width: 100%;
+	margin-bottom: 5px;
+	padding: 5px 5px 5px 5px;
+	color: #636363;
+}
+
+input:focus { outline: none; }
+
+/* Button */
+
+
+
+.button {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background: #4a89dc;
+  width: 100%;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+  margin-bottom: 15px;
+}
+
+.button:hover,.button:active,.button:focus {
+  background: #357bd8;
+}
+
+.button-delete-student:hover
+{
+	background: #BF3030;
+}
+
+.button-delete-group:hover
+{
+	background: #BF3030;
+}
+
+.tab-group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.tab-group li a {
+  font-family: "Roboto", sans-serif;	
+  display: block;
+  text-decoration: none;
+  padding: 15px;
+  background: rgba(160, 179, 176, 0.25);
+  color: #a0b3b0;
+  font-size: 20px;
+  float: left;
+  width: 50%;
+  text-align: center;
+  cursor: pointer;
+}
+.tab-group li a:hover {
+  background: #179b77;
+  color: #ffffff;
+}
+.tab-group .active a {
+  background: #1ab188;
+  color: #ffffff;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 300;
+  
+}
+
+#login-form-caption{
+	margin: 0 0 15px;
+}
+
+.tab-group {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 25px 0;
+}
+
+.error-message{
+  display: none;
+  text-align: center;
+  margin-top: -20px; 
+  margin-bottom: 5px;
+  color: #FF4040;
+}
+
+.show-error-message{
+  display: block;
+}
+
+/*
+----- Select menu
+*/
+
+ /* The container must be positioned relative: */
+.custom-select {
+  position: relative;
+  font-family: Arial;
+}
+
+.custom-select select {
+  display: none; /*hide original SELECT element: */
+}
+
+.select-selected {
+  background-color: DodgerBlue;
+}
+
+/* Style the arrow inside the select element: */
+.select-selected:after {
+  position: absolute;
+  content: "";
+  top: 14px;
+  right: 10px;
+  width: 0;
+  height: 0;
+  border: 6px solid transparent;
+  border-color: #fff transparent transparent transparent;
+}
+
+/* Point the arrow upwards when the select box is open (active): */
+.select-selected.select-arrow-active:after {
+  border-color: transparent transparent #fff transparent;
+  top: 7px;
+}
+
+/* style the items (options), including the selected item: */
+.select-items div,.select-selected {
+  color: #ffffff;
+  padding: 8px 16px;
+  border: 1px solid transparent;
+  border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+  cursor: pointer;
+}
+
+/* Style items (options): */
+.select-items {
+  position: absolute;
+  background-color: DodgerBlue;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 99;
+}
+
+/* Hide the items when the select box is closed: */
+.select-hide {
+  display: none;
+}
+
+.select-items div:hover, .same-as-selected {
+  background-color: rgba(0, 0, 0, 0.1);
+} 
+
+/*
+------ CSS sidebar(menu)
+*/
+
+#user_login{
+	color:gold !important;
+	cursor: auto !important;
+}
+
+#exit-button{
+	color:#FF2020 !important;
+}
+
+#exit-button:hover{
+	color:#FF4040 !important;
+}
+
+#sidebar{	
+	position: fixed;
+	top:0;	
+	width: 200px;
+	left:-200px;
+	height: 100%;
+	background: #151719;
+
+}
+
+#sidebar.active{
+	left:0px;
+}
+
+.main-panel{			
+	overflow-y: auto;
+}
+
+.main-panel-inner-block{	
+	height: 100%;
+}
+
+#sidebar ul li{
+	color:rgba(230,230,230,0.9);
+	list-style: none;
+	padding: 15px 10px;
+	border-bottom: 1px solid rgba(100,100,100,0.3);
+	cursor: pointer;
+}
+
+#sidebar ul li:hover{
+	color:#2B4281;
+}
+
+#sidebar .toggle-button{
+	position: absolute;
+	left:230px;
+	top:20px;
+	cursor: pointer;
+	opacity: 0.3;
+}
+
+#sidebar .toggle-button span{
+	display: block;
+	width: 30px;
+	height: 5px;
+	background: #151719;
+	margin: 3px 0px;
+}
+
+.block-back {	
+	position: fixed;
+	top:0;
+	left:0;
+	height: 100%;
+	width: 100%;
+	z-index: 9999;
+	background-color: rgba(0,0,0,0.7);	
+}
+
+.block-back .main-block{
+	padding: 2em 2em 1.4em 2em !important;
+}
+
+
+
+h1 {
+	margin-bottom: 0.5em;
+}
+
+
+.styled-select{
+	margin-bottom: 1em;
+}
+
+.styled-select.slate select {
+   border: 1px solid #ccc;   
+   font-size: 16px;
+   height: 34px;  
+   width:100%; 
+}

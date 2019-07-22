@@ -1,0 +1,27 @@
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILEOS 0x4
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+    BLOCK "040904E4"
+    {
+        VALUE "CompanyName", "kirkhal0909@gmail.com\0"
+        VALUE "FileDescription", "BotAct for creating macros\0"
+        VALUE "FileVersion", "1.0.0.0\0"
+        VALUE "InternalName", "KirKhal\0"
+        VALUE "LegalCopyright", "kirkhal0909@gmail.com\0"
+        VALUE "LegalTrademarks", "KirKhal\0"
+        VALUE "OriginalFilename", "BotAct.exe\0"
+        VALUE "ProductName", "BotAct\0"
+        VALUE "ProductVersion", "1.0.0.0\0"
+    }
+}
+
+BLOCK "VarFileInfo"
+{
+    VALUE "Translation", 0x0409 0x04E4
+}
+}
